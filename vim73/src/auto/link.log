@@ -1,0 +1,62 @@
+  gcc   -L/usr/local/lib 	-o vim objects/buffer.o objects/blowfish.o objects/charset.o objects/diff.o objects/digraph.o objects/edit.o objects/eval.o objects/ex_cmds.o objects/ex_cmds2.o objects/ex_docmd.o objects/ex_eval.o objects/ex_getln.o objects/fileio.o objects/fold.o objects/getchar.o objects/hardcopy.o objects/hashtab.o  objects/if_cscope.o objects/if_xcmdsrv.o objects/main.o objects/mark.o objects/memfile.o objects/memline.o objects/menu.o objects/message.o objects/misc1.o objects/misc2.o objects/move.o objects/mbyte.o objects/normal.o objects/ops.o objects/option.o objects/os_unix.o objects/pathdef.o objects/popupmnu.o objects/quickfix.o objects/regexp.o objects/screen.o objects/search.o objects/sha256.o objects/spell.o objects/syntax.o  objects/tag.o objects/term.o objects/ui.o objects/undo.o objects/window.o           objects/netbeans.o  objects/version.o    -lICE -lXt -lX11 -lXdmcp -lSM -lICE -lm -lncurses -lnsl  -lselinux          
+  gcc   -L/usr/local/lib 	-o vim objects/buffer.o objects/blowfish.o objects/charset.o objects/diff.o objects/digraph.o objects/edit.o objects/eval.o objects/ex_cmds.o objects/ex_cmds2.o objects/ex_docmd.o objects/ex_eval.o objects/ex_getln.o objects/fileio.o objects/fold.o objects/getchar.o objects/hardcopy.o objects/hashtab.o  objects/if_cscope.o objects/if_xcmdsrv.o objects/main.o objects/mark.o objects/memfile.o objects/memline.o objects/menu.o objects/message.o objects/misc1.o objects/misc2.o objects/move.o objects/mbyte.o objects/normal.o objects/ops.o objects/option.o objects/os_unix.o objects/pathdef.o objects/popupmnu.o objects/quickfix.o objects/regexp.o objects/screen.o objects/search.o objects/sha256.o objects/spell.o objects/syntax.o  objects/tag.o objects/term.o objects/ui.o objects/undo.o objects/window.o           objects/netbeans.o  objects/version.o    -lICE -lXt -lX11 -lXdmcp -lICE -lm -lncurses -lnsl  -lselinux          
+  gcc   -L/usr/local/lib 	-o vim objects/buffer.o objects/blowfish.o objects/charset.o objects/diff.o objects/digraph.o objects/edit.o objects/eval.o objects/ex_cmds.o objects/ex_cmds2.o objects/ex_docmd.o objects/ex_eval.o objects/ex_getln.o objects/fileio.o objects/fold.o objects/getchar.o objects/hardcopy.o objects/hashtab.o  objects/if_cscope.o objects/if_xcmdsrv.o objects/main.o objects/mark.o objects/memfile.o objects/memline.o objects/menu.o objects/message.o objects/misc1.o objects/misc2.o objects/move.o objects/mbyte.o objects/normal.o objects/ops.o objects/option.o objects/os_unix.o objects/pathdef.o objects/popupmnu.o objects/quickfix.o objects/regexp.o objects/screen.o objects/search.o objects/sha256.o objects/spell.o objects/syntax.o  objects/tag.o objects/term.o objects/ui.o objects/undo.o objects/window.o           objects/netbeans.o  objects/version.o    -lXt -lX11 -lXdmcp -lICE -lm -lncurses -lnsl  -lselinux          
+  gcc   -L/usr/local/lib 	-o vim objects/buffer.o objects/blowfish.o objects/charset.o objects/diff.o objects/digraph.o objects/edit.o objects/eval.o objects/ex_cmds.o objects/ex_cmds2.o objects/ex_docmd.o objects/ex_eval.o objects/ex_getln.o objects/fileio.o objects/fold.o objects/getchar.o objects/hardcopy.o objects/hashtab.o  objects/if_cscope.o objects/if_xcmdsrv.o objects/main.o objects/mark.o objects/memfile.o objects/memline.o objects/menu.o objects/message.o objects/misc1.o objects/misc2.o objects/move.o objects/mbyte.o objects/normal.o objects/ops.o objects/option.o objects/os_unix.o objects/pathdef.o objects/popupmnu.o objects/quickfix.o objects/regexp.o objects/screen.o objects/search.o objects/sha256.o objects/spell.o objects/syntax.o  objects/tag.o objects/term.o objects/ui.o objects/undo.o objects/window.o           objects/netbeans.o  objects/version.o    -lXt -lX11 -lXdmcp -lm -lncurses -lnsl  -lselinux          
+  gcc   -L/usr/local/lib 	-o vim objects/buffer.o objects/blowfish.o objects/charset.o objects/diff.o objects/digraph.o objects/edit.o objects/eval.o objects/ex_cmds.o objects/ex_cmds2.o objects/ex_docmd.o objects/ex_eval.o objects/ex_getln.o objects/fileio.o objects/fold.o objects/getchar.o objects/hardcopy.o objects/hashtab.o  objects/if_cscope.o objects/if_xcmdsrv.o objects/main.o objects/mark.o objects/memfile.o objects/memline.o objects/menu.o objects/message.o objects/misc1.o objects/misc2.o objects/move.o objects/mbyte.o objects/normal.o objects/ops.o objects/option.o objects/os_unix.o objects/pathdef.o objects/popupmnu.o objects/quickfix.o objects/regexp.o objects/screen.o objects/search.o objects/sha256.o objects/spell.o objects/syntax.o  objects/tag.o objects/term.o objects/ui.o objects/undo.o objects/window.o           objects/netbeans.o  objects/version.o    -lXt -lX11 -lXdmcp -lm -lncurses -lselinux          
+  gcc   -L/usr/local/lib 	-o vim objects/buffer.o objects/blowfish.o objects/charset.o objects/diff.o objects/digraph.o objects/edit.o objects/eval.o objects/ex_cmds.o objects/ex_cmds2.o objects/ex_docmd.o objects/ex_eval.o objects/ex_getln.o objects/fileio.o objects/fold.o objects/getchar.o objects/hardcopy.o objects/hashtab.o  objects/if_cscope.o objects/if_xcmdsrv.o objects/main.o objects/mark.o objects/memfile.o objects/memline.o objects/menu.o objects/message.o objects/misc1.o objects/misc2.o objects/move.o objects/mbyte.o objects/normal.o objects/ops.o objects/option.o objects/os_unix.o objects/pathdef.o objects/popupmnu.o objects/quickfix.o objects/regexp.o objects/screen.o objects/search.o objects/sha256.o objects/spell.o objects/syntax.o  objects/tag.o objects/term.o objects/ui.o objects/undo.o objects/window.o           objects/netbeans.o  objects/version.o    -lX11 -lXdmcp -lm -lncurses -lselinux          
+objects/os_unix.o: In function `xsmp_close':
+os_unix.c:(.text+0x148): undefined reference to `SmcCloseConnection'
+objects/os_unix.o: In function `xsmp_init':
+os_unix.c:(.text+0x214): undefined reference to `IceAddConnectionWatch'
+os_unix.c:(.text+0x2a1): undefined reference to `SmcOpenConnection'
+os_unix.c:(.text+0x2b2): undefined reference to `SmcGetIceConnection'
+objects/os_unix.o: In function `xsmp_ice_connection':
+os_unix.c:(.text+0x336): undefined reference to `IceConnectionNumber'
+objects/os_unix.o: In function `xsmp_shutdown_cancelled':
+os_unix.c:(.text+0x37f): undefined reference to `SmcSaveYourselfDone'
+objects/os_unix.o: In function `xsmp_handle_save_yourself':
+os_unix.c:(.text+0x437): undefined reference to `SmcSaveYourselfDone'
+os_unix.c:(.text+0x45c): undefined reference to `SmcSaveYourselfDone'
+objects/os_unix.o: In function `xsmp_handle_requests':
+os_unix.c:(.text+0x48e): undefined reference to `IceProcessMessages'
+objects/os_unix.o: In function `xterm_update':
+os_unix.c:(.text+0x964): undefined reference to `XtDispatchEvent'
+os_unix.c:(.text+0x971): undefined reference to `XtAppPending'
+os_unix.c:(.text+0x98f): undefined reference to `XtAppNextEvent'
+objects/os_unix.o: In function `setup_term_clip':
+os_unix.c:(.text+0x1cfd): undefined reference to `applicationShellWidgetClass'
+os_unix.c:(.text+0x1d15): undefined reference to `XtVaAppCreateShell'
+os_unix.c:(.text+0x1d35): undefined reference to `XtStrings'
+os_unix.c:(.text+0x1d45): undefined reference to `XtStrings'
+os_unix.c:(.text+0x1d55): undefined reference to `XtStrings'
+os_unix.c:(.text+0x1d5e): undefined reference to `topLevelShellWidgetClass'
+os_unix.c:(.text+0x1d6e): undefined reference to `XtVaCreatePopupShell'
+os_unix.c:(.text+0x1daf): undefined reference to `XtRealizeWidget'
+os_unix.c:(.text+0x1e20): undefined reference to `XtOpenDisplay'
+objects/os_unix.o: In function `xsmp_ice_connection':
+os_unix.c:(.text+0x34f): undefined reference to `IceRemoveConnectionWatch'
+objects/ui.o: In function `clip_x11_own_selection':
+ui.c:(.text+0xe22): undefined reference to `XtWindow'
+ui.c:(.text+0xe2f): undefined reference to `XtDisplay'
+ui.c:(.text+0xe74): undefined reference to `XtDisplay'
+objects/ui.o: In function `clip_x11_lose_selection':
+ui.c:(.text+0xebf): undefined reference to `XtDisownSelection'
+objects/ui.o: In function `clip_x11_request_selection_cb':
+ui.c:(.text+0xf59): undefined reference to `XtFree'
+objects/ui.o: In function `x11_setup_selection':
+ui.c:(.text+0x102d): undefined reference to `XtAddEventHandler'
+objects/ui.o: In function `clip_x11_timestamp_cb':
+ui.c:(.text+0x1131): undefined reference to `XtOwnSelection'
+objects/ui.o: In function `open_app_context':
+ui.c:(.text+0x1222): undefined reference to `XtToolkitInitialize'
+ui.c:(.text+0x1227): undefined reference to `XtCreateApplicationContext'
+objects/ui.o: In function `clip_x11_request_selection':
+ui.c:(.text+0x266b): undefined reference to `XtGetSelectionValue'
+ui.c:(.text+0x268c): undefined reference to `XtDispatchEvent'
+objects/ui.o: In function `clip_x11_convert_selection_cb':
+ui.c:(.text+0x2b27): undefined reference to `XtMalloc'
+ui.c:(.text+0x2c0d): undefined reference to `XtFree'
+ui.c:(.text+0x2c40): undefined reference to `XtMalloc'
+collect2: ld returned 1 exit status
+  gcc   -L/usr/local/lib 	-o vim objects/buffer.o objects/blowfish.o objects/charset.o objects/diff.o objects/digraph.o objects/edit.o objects/eval.o objects/ex_cmds.o objects/ex_cmds2.o objects/ex_docmd.o objects/ex_eval.o objects/ex_getln.o objects/fileio.o objects/fold.o objects/getchar.o objects/hardcopy.o objects/hashtab.o  objects/if_cscope.o objects/if_xcmdsrv.o objects/main.o objects/mark.o objects/memfile.o objects/memline.o objects/menu.o objects/message.o objects/misc1.o objects/misc2.o objects/move.o objects/mbyte.o objects/normal.o objects/ops.o objects/option.o objects/os_unix.o objects/pathdef.o objects/popupmnu.o objects/quickfix.o objects/regexp.o objects/screen.o objects/search.o objects/sha256.o objects/spell.o objects/syntax.o  objects/tag.o objects/term.o objects/ui.o objects/undo.o objects/window.o           objects/netbeans.o  objects/version.o    -lXt -lXdmcp -lm -lncurses -lselinux          
+  gcc   -L/usr/local/lib 	-o vim objects/buffer.o objects/blowfish.o objects/charset.o objects/diff.o objects/digraph.o objects/edit.o objects/eval.o objects/ex_cmds.o objects/ex_cmds2.o objects/ex_docmd.o objects/ex_eval.o objects/ex_getln.o objects/fileio.o objects/fold.o objects/getchar.o objects/hardcopy.o objects/hashtab.o  objects/if_cscope.o objects/if_xcmdsrv.o objects/main.o objects/mark.o objects/memfile.o objects/memline.o objects/menu.o objects/message.o objects/misc1.o objects/misc2.o objects/move.o objects/mbyte.o objects/normal.o objects/ops.o objects/option.o objects/os_unix.o objects/pathdef.o objects/popupmnu.o objects/quickfix.o objects/regexp.o objects/screen.o objects/search.o objects/sha256.o objects/spell.o objects/syntax.o  objects/tag.o objects/term.o objects/ui.o objects/undo.o objects/window.o           objects/netbeans.o  objects/version.o    -lXt -lm -lncurses -lselinux          
